@@ -1,7 +1,9 @@
 # Aws-Data-Analytics
 
-Note: My data is already is located on S3 bucket
 Goal: Analyze the Data in QuickSight BI Service provided by AWS
+
+Note: My data is already is located on S3 bucket
+
 
 So let's Go!
 
