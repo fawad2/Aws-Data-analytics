@@ -2,7 +2,7 @@
 
 Goal: Analyze the Data in QuickSight BI Service provided by AWS
 
-Note: My data is already is located on S3 bucket
+Note: My data is already located in S3 bucket(csv format) 
 
 
 So let's Go!
